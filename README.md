@@ -1,2 +1,2 @@
 # testrepo
-$`\sqrt{2}`$
+$\mu$
